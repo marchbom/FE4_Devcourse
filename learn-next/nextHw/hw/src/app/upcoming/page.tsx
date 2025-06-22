@@ -116,7 +116,7 @@ export default function upcoming() {
             </Link>
           </div>
           <div className="movie-list__item">
-            <a href="#">
+            <Link href={"/upcoming/detail"}>
               <figure>
                 <Image
                   width={200}
@@ -141,10 +141,10 @@ export default function upcoming() {
                 </p>
                 <span className="movie-list__release">2023.11.21 / 평점 7.3</span>
               </div>
-            </a>
+            </Link>
           </div>
           <div className="movie-list__item">
-            <a href="#">
+            <Link href={"/upcoming/detail"}>
               <figure>
                 <Image
                   width={200}
@@ -169,10 +169,10 @@ export default function upcoming() {
                 </p>
                 <span className="movie-list__release">2023.11.21 / 평점 7.3</span>
               </div>
-            </a>
+            </Link>
           </div>
           <div className="movie-list__item">
-            <a href="#">
+            <Link href={"/upcoming/detail"}>
               <figure>
                 <Image
                   width={200}
@@ -197,10 +197,10 @@ export default function upcoming() {
                 </p>
                 <span className="movie-list__release">2023.11.21 / 평점 7.3</span>
               </div>
-            </a>
+            </Link>
           </div>
           <div className="movie-list__item">
-            <a href="#">
+            <Link href={"/upcoming/detail"}>
               <figure>
                 <Image
                   width={200}
@@ -225,7 +225,7 @@ export default function upcoming() {
                 </p>
                 <span className="movie-list__release">2023.11.21 / 평점 7.3</span>
               </div>
-            </a>
+            </Link>
           </div>
         </div>
       </section>

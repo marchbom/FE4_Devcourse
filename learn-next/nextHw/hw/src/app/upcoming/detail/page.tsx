@@ -26,7 +26,7 @@ export default async function detailPage() {
       <section className="detail">
         <div className="detail-wrap">
           <div className="detail-info">
-            <h2 className="detail-title">Best Game</h2>
+            <h2 className="detail-title">Civil War</h2>
             <ul className="detail-features">
               <li className="features-item">
                 <div className="progress-circle p50">

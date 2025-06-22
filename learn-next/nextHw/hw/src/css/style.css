@@ -118,7 +118,7 @@ body {
 }
 
 .release__desc {
-  margin-bottom: 1rem;
+  margin-bottom: 1.7rem;
   font-size: 22px;
   white-space: normal;
   overflow: hidden;
@@ -138,6 +138,7 @@ body {
   border: none;
   border-radius: 5px;
   font-size: 18px;
+  padding: 12px 30px;
 }
 
 .movie {

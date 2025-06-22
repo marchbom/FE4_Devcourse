@@ -37,7 +37,7 @@ export default async function detailPage() {
                   </div>
                 </div>
               </li>
-              <li className="features-item">코미디</li>
+              <li className="features-item">액션</li>
               <li className="features-item">1h 51m</li>
             </ul>
             <p className="detail-desc">
